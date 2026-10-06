@@ -105,6 +105,6 @@ lifeblood-ems-dashboard/
 
 **Aniruddha Pandit** | Data Analyst | Melbourne, VIC
 
-- LinkedIn: [linkedin.com/in/aniruddha-pandit](https://www.linkedin.com/in/aniruddha-pandit)
+- LinkedIn: https://www.linkedin.com/in/aniruddha-pandit-5b572b245/
 - GitHub: [github.com/AniruddhaPandit](https://github.com/AniruddhaPandit)
 - Portfolio: [datascienceportfol.io/aniruddhagppandit](https://www.datascienceportfol.io/aniruddhagppandit)
