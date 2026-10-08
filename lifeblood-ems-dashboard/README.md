@@ -58,7 +58,7 @@ National view of alert activity by location, with bubble size showing alert volu
 - **98% within-limits target:** flags sites falling below the target
 - **Best 10 / Worst 10 rankings** using DAX ranking measures
 - **Sensor escalation flag** at sensor level
-- **Interactive slicers** for month, site type (DMU, Pop Up, Static), state and excursion profile
+- **Interactive slicers** for month, site type , state and excursion profile
 
 ## Challenges and how they were solved
 
